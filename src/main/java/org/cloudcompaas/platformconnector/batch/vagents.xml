@@ -1,0 +1,7 @@
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<vagents>
+	<paasagent>
+		<epr>158.42.244.20</epr>
+		<extension name="lenguage">java</extension>
+	</paasagent>
+</vagents>
